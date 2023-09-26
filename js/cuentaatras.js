@@ -1,6 +1,6 @@
 // Cuenta Atras
 
-const fechaCumple = new Date("19/12/2023 0:01 AM");
+const fechaCumple = new Date("12/19/2023 0:01 AM");
 
 const mesesElement = document.getElementById("meses");
 const diasElement = document.getElementById("dias");
